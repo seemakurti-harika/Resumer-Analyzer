@@ -23,33 +23,6 @@ It is **not a commercial product**, but a solid **engineering + portfolio projec
 - Fully working frontend + backend
 - Free-tier friendly (no paid APIs required)
 
----
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src=".github/screenshots/home.png" width="700" alt="Home Screen" />
-</p>
-
-<p align="center">
-  <img src=".github/screenshots/jd_input.png" width="700" alt="Job Description Input" />
-</p>
-
-<p align="center">
-  <img src=".github/screenshots/chat_screen.png" width="700" alt="Chat Screen" />
-</p>
-
-<p align="center">
-  <img src=".github/screenshots/chats.png" width="700" alt="Chats List" />
-</p>
-
-### 📱 Mobile View
-
-<p align="center">
-  <img src=".github/screenshots/mobile_screen.jpeg" width="320" alt="Mobile Screen" />
-</p>
-
-
 ## 🧠 How the System Works
 
 1. User uploads a resume and a job description  
