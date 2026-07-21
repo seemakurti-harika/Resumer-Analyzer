@@ -109,10 +109,3 @@ When the User Asks for Details
 - Not optimized for high concurrent users
 - These trade-offs were made intentionally to keep the system simple, reliable, and        free-tier friendly.
 
-#### 👤 Author
-Danish Shaikh
-BCA Student | Python & Data-Oriented Developer
-
-### 📄 License
-This project is intended for educational and personal learning purposes.
-
