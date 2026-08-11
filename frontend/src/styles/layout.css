@@ -1,0 +1,10 @@
+.main-content{
+    margin-left:270px;
+    width:calc(100% - 270px);
+    background:#F8FAFC;
+    min-height:100vh;
+}
+
+.page-content{
+    padding:35px;
+}

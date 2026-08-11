@@ -1,0 +1,32 @@
+.loading-overlay{
+    position:fixed;
+    inset:0;
+    background:rgba(0,0,0,.45);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    z-index:9999;
+}
+
+.loading-box{
+    width:420px;
+    background:white;
+    padding:30px;
+    border-radius:14px;
+    box-shadow:0 10px 30px rgba(0,0,0,.2);
+}
+
+.loading-step{
+    margin-top:18px;
+    font-size:17px;
+}
+
+.loading-step.completed{
+    color:#16a34a;
+    font-weight:600;
+}
+
+.loading-step.active{
+    color:#2563eb;
+    font-weight:600;
+}
